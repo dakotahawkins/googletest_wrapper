@@ -1,0 +1,6 @@
+*
+!.editorconfig
+!.gitignore
+!build.sh
+!build/
+!build/.gitkeep
